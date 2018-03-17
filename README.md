@@ -1,5 +1,4 @@
-# Binary-Search# A Binary Search implementation written in java
-======
+# A Binary Search implementation written in java
 The complexity for indexOfKey (which contains() executes) is log(n). The reason behind this is in the algorithm for indexOfKey; indexOfKey uses a binary search. The binary search algorithm iteratively halves the searched list until a match is found (or not). The length of the list has to at worst be halved k times i.e. n=2^k for some integer k which means that k=log(n). 
 
 ## Practical Example (time in nanoseconds for medium performance pc ~ 2010)
