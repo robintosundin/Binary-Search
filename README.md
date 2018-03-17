@@ -14,6 +14,7 @@ Time in nanoseconds for medium performance pc ~ 2010.
 
 ## Theoretical Example 
 Time in nanoseconds, for some values a and b.
+
 |Set size  |Execution time      |
 |----------|:------------------:|
 |n=    10  | k=a*log(n)+b=  7.3 |
